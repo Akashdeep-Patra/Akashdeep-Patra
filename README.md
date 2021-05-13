@@ -3,9 +3,9 @@
 I am Akashdeep , you can call me Akash if you like :stuck_out_tongue: , currently working as a software engineer in
 [Velotio Technologies](https://www.velotio.com/). I am a tech enthusiast & an open-source advocate and I also happen to write sometimes , apart from code that is :zany_face: . I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/akashdeep-patra-632428122/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/mr_mornin_star/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:adeep8961@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Akashdeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashdeep-patra-632428122/)](https://www.linkedin.com/in/akashdeep-patra-632428122/)
+[![Instagram Badge](https://img.shields.io/badge/-mr_mornin_star-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr_mornin_star/)](https://www.instagram.com/mr_mornin_star/)
+[![Gmail Badge](https://img.shields.io/badge/-adeep8961@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeep8961@gmail.com)](mailto:adeep8961@gmail.com)
 
 ## ⚡ Technologies
 
