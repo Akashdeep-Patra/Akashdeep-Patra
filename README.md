@@ -29,7 +29,15 @@ I am Akashdeep , you can call me Akash if you like :stuck_out_tongue: , currentl
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Akashdeep-Patra&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashdeep-Patra&hide=TeX&layout=compact)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Akashdeep-Patra"><img src="https://github-readme-stats.vercel.app/api?username=Akashdeep-Patra&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akashdeep-Patra's GitHub stats" /></a>
+
+<a href="http://www.github.com/Akashdeep-Patra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashdeep-Patra&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Akashdeep-Patra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akashdeep-Patra&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Akashdeep-Patra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashdeep-Patra&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Akashdeep-Patra.Akashdeep-Patra)
