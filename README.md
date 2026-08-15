@@ -1,43 +1,73 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h1 align="center">Akashdeep Patra</h1>
 
-I am Akashdeep , you can call me Akash if you like :stuck_out_tongue: , currently working as a Software engineer 2 at
-[Uber](https://www.uber.com/us/en/about). I am a tech enthusiast & an open-source advocate and I also happen to write sometimes , apart from code that is :zany_face: . I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<p align="center">
+  <strong>Senior Software Engineer · Frontend & Full-stack · React, TypeScript & Go</strong><br/>
+  Building dependable product experiences, developer platforms, and tools that make engineers faster.
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Akashdeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashdeep-patra-632428122/)](https://www.linkedin.com/in/akashdeep-patra-632428122/)
-[![Instagram Badge](https://img.shields.io/badge/-mr_mornin_star-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr_mornin_star/)](https://www.instagram.com/mr_mornin_star/)
-[![Gmail Badge](https://img.shields.io/badge/-adeep8961@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeep8961@gmail.com)](mailto:adeep8961@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashdeep-patra-632428122/">LinkedIn</a> ·
+  <a href="https://dev.to/mr_mornin_star">Writing</a> ·
+  <a href="mailto:adeep8961@gmail.com">Email</a> ·
+  <a href="https://github.com/Akashdeep-Patra?tab=repositories">Projects</a>
+</p>
 
-## ⚡ Technologies
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+## About
 
-<b>My GitHub Stats</b>
+I am a Bengaluru-based Senior Software Engineer with 7+ years of experience shipping consumer-facing products and internal platforms at **Uber**, **ShareChat**, **Velotio Technologies**, and **Marcus by Goldman Sachs**.
 
-<a href="http://www.github.com/Akashdeep-Patra"><img src="https://github-readme-stats.vercel.app/api?username=Akashdeep-Patra&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akashdeep-Patra's GitHub stats" /></a>
+I enjoy taking ambiguous problems from first architecture to production: designing interfaces, building the backend, instrumenting the system, and measuring whether it actually helped users or engineers.
 
-<a href="http://www.github.com/Akashdeep-Patra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashdeep-Patra&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Selected Impact
 
-<a href="http://www.github.com/Akashdeep-Patra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akashdeep-Patra&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- Architected a production AI debugging agent that became part of Uber's company-wide bug-triage pipeline.
+- Built a browser-based iOS/Android emulator platform with live device streaming and remote interaction for in-browser bug reproduction.
+- Shipped Uber Eats workflows supporting an experience used by **90,000 merchants**.
+- Built observability and debugging systems processing approximately **140M non-fatal events per month**.
+- Created shared UI libraries and TypeScript SDKs adopted across production applications.
+- Redesigned ShareChat's ads rendering engine, reducing developer turnaround from approximately one week to hours.
 
-<a href="https://github.com/Akashdeep-Patra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashdeep-Patra&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## What I Build
 
+| Area | Examples |
+| --- | --- |
+| Product engineering | Consumer web experiences, complex workflows, responsive interfaces |
+| Frontend platforms | React design systems, shared components, SDKs, accessibility |
+| Full-stack systems | GraphQL APIs, Go services, WebSockets, typed clients |
+| Developer tooling | Emulator control surfaces, debugging workflows, telemetry pipelines |
+| Applied AI | Streaming agents, dynamic tool registries, structured output, retrieval |
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Akashdeep-Patra.Akashdeep-Patra)
+## Toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Also:** React Native, Fusion.js, Base Web, Storybook, Tailwind CSS, Redux, Zustand, React Query, gRPC, Protobuf, Redis, Jest, Vitest, React Testing Library, Bazel, Vite, observability SDKs, accessibility, and LLM agent orchestration.
+
+## Currently Interested In
+
+- Senior Frontend Engineer and Senior Full-stack Engineer roles
+- Developer experience and product engineering
+- Frontend architecture and design systems
+- Applied AI for developers
+- Open-source collaboration and useful technical writing
+
+## Contact
+
+If you are building a product that benefits from thoughtful frontend architecture and strong end-to-end ownership, feel free to connect.
+
+<p>
+  <a href="mailto:adeep8961@gmail.com">adeep8961@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/akashdeep-patra-632428122/">LinkedIn</a> ·
+  <a href="https://dev.to/mr_mornin_star">Dev.to</a>
+</p>
